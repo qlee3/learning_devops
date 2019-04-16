@@ -18,7 +18,7 @@ localhost:3000
 
 how to stop and delete
 
-'''
+```
 docker stop helloExpress
 docker rm helloExpress
 docker images
