@@ -25,3 +25,4 @@ docker images
 docker rmi <image id>
 ```
 
+jenkins test
